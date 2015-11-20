@@ -2,3 +2,4 @@ git ±Í
 
 1)ADD:ø°µÂ»Â»Â 
 git_demo2
+2) gitdemo1 push
